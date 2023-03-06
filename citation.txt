@@ -1,0 +1,9 @@
+@article{REPO-243,
+    author = "Lang, Huan and Zhang, Lei and Wu, Wenling",
+    journal = "Journal of University of Chinese Academy of Sciences",
+    number = "2",
+    pages = "180-187",
+    title = "{Fast Software Implementation of SM4}",
+    volume = "35",
+    year = "2018"
+}

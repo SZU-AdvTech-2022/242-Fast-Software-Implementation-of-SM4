@@ -1,4 +1,4 @@
-@article{REPO-243,
+@article{REPO-242,
     author = "Lang, Huan and Zhang, Lei and Wu, Wenling",
     journal = "Journal of University of Chinese Academy of Sciences",
     number = "2",
